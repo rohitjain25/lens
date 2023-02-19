@@ -1,5 +1,5 @@
 # lens
-#check
+
 User authentication:
 Before a user can access the dashboard, they need to log in or sign up. The dashboard can store user information in a database, such as name, email address, and a hashed password. Upon login, the dashboard can check the user's credentials against the stored data.
 
@@ -41,7 +41,6 @@ Consider implementing appropriate data privacy and security measures to protect 
 
 Feedback mechanisms:
 Consider adding mechanisms for users to provide feedback on the dashboard, such as surveys or user testing sessions. This can help identify areas for improvement and ensure that the dashboard is meeting the needs of its users.
-
 
 Tech Stacks :
 
