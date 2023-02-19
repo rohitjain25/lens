@@ -1,4 +1,5 @@
 # lens
+#check
 User authentication:
 Before a user can access the dashboard, they need to log in or sign up. The dashboard can store user information in a database, such as name, email address, and a hashed password. Upon login, the dashboard can check the user's credentials against the stored data.
 
